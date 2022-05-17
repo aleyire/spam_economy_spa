@@ -1,0 +1,17 @@
+{
+  "name": "spam_economy_pa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "nodemailer": "^6.7.5",
+    "nodemon": "^2.0.16",
+    "uuid": "^8.3.2"
+  }
+}
